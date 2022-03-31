@@ -1,4 +1,4 @@
-# Topic_classification
+# Topic_classification_NLP
 Technical assessment for a job interview
 
 Problématique : pouvoir dire si un tweet parle effectivement d'une catastrophe naturelle ou non.  
