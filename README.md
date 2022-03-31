@@ -1,5 +1,5 @@
 # Topic_classification
-Technical assessment
+Technical assessment for a job interview
 
 Problématique : pouvoir dire si un tweet parle effectivement d'une catastrophe naturelle ou non.  
 Par exemple, les tweets suivants ne parlent pas de catastrophe naturelle :   
